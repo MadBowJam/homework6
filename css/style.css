@@ -1,0 +1,47 @@
+body {
+  background-color: greenyellow;
+  color: #fff;
+}
+.global {
+  width: 830px;
+  margin: 20px auto;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: white;
+}
+table {
+  margin: 0 auto;
+  border-collapse: collapse;
+  border: 5px solid black;
+  border-left: 10px solid black;
+  border-right: 10px solid black;
+}
+td {
+  height: 25px;
+  width: 25px;
+  border: 10px solid black;
+  border-top: none;
+  border-bottom: none;
+}
+.last-row {
+  border-left: none;
+  border-right: none;
+}
+.left {
+  border-left: 10px solid black;
+}
+.bottom {
+  border-bottom: 10px solid black;
+}
+.yellow {
+  background-color: yellow;
+}
+.red {
+  background-color: red;
+}
+.black {
+  background-color: black;
+}
+.blue {
+  background-color: darkblue;
+}
