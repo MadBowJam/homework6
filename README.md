@@ -1,1 +1,1 @@
-https://madbowjam.github.io/homework24/
+https://madbowjam.github.io/homework6/
